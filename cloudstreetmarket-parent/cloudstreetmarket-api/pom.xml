@@ -8,7 +8,7 @@
     <modelVersion>4.0.0</modelVersion>
     <artifactId>cloudstreetmarket-api</artifactId>
     <packaging>war</packaging>
-    <name>cloudstreetmarket-api Maven Webapp</name>
+    <name>Cloudstreetmarket-api</name>
     <url>http://maven.apache.org</url>
     <dependencies>
         <dependency>

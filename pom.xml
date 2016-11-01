@@ -10,6 +10,7 @@
     <version>1.0-SNAPSHOT</version>
     <modules>
         <module>cloudstreetmarket-parent</module>
+        <module>zipcloud-parent</module>
     </modules>
 
 

@@ -7,7 +7,7 @@
     </parent>
     <modelVersion>4.0.0</modelVersion>
 
-    <artifactId>Cloudstreetmarket-core</artifactId>
+    <artifactId>cloudstreetmarket-core</artifactId>
     <packaging>jar</packaging>
 
     <name>cloudstreetmarket-core</name>

@@ -24,7 +24,10 @@
             <groupId>ru.juncevich.education.java.spring.springmvc.cloudstreetmarket</groupId>
             <artifactId>zipcloud-core</artifactId>
         </dependency>
-
+        <dependency>
+            <groupId>javax.servlet</groupId>
+            <artifactId>javax.servlet-api</artifactId>
+        </dependency>
         <dependency>
             <groupId>javax.servlet.jsp</groupId>
             <artifactId>jsp-api</artifactId>

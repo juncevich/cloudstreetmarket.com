@@ -1,4 +1,4 @@
-package ru.juncevich.education.java.sprin.springmvc.cloudstreetmarket.portal.controllers;
+package ru.juncevich.education.java.spring.springmvc.cloudstreetmarket.portal.controllers;
 
 import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.RequestMapping;

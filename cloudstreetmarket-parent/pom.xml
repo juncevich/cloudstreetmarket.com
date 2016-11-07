@@ -20,7 +20,7 @@
         <log4j.version>1.2.17</log4j.version>
         <slf4j.version>1.7.5</slf4j.version>
         <jstl.version>1.2</jstl.version>
-        <jsp-api.version>2.2</jsp-api.version>
+        <jsp-api.version>2.1</jsp-api.version>
         <java.uel.version>3.0.0</java.uel.version>
         <servlet-api.version>3.1.0</servlet-api.version>
         <dom4j.version>1.6.1</dom4j.version>
@@ -37,7 +37,12 @@
                 <artifactId>zipcloud-core</artifactId>
                 <version>${zipcloud.version}</version>
             </dependency>
-
+            <dependency>
+                <groupId>javax.servlet</groupId>
+                <artifactId>javax.servlet-api</artifactId>
+                <version>${servlet-api.version}</version>
+                <scope>provided</scope>
+            </dependency>
             <!-- Spring dependencies -->
             <!-- Spring core container -->
             <dependency>

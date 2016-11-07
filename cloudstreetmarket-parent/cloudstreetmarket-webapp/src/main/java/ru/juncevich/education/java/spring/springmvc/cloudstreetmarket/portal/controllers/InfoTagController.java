@@ -1,4 +1,4 @@
-package ru.juncevich.education.java.sprin.springmvc.cloudstreetmarket.portal.controllers;
+package ru.juncevich.education.java.spring.springmvc.cloudstreetmarket.portal.controllers;
 
 import java.time.LocalDateTime;
 import java.time.format.DateTimeFormatter;
